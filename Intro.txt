@@ -1,0 +1,8 @@
+#LAB TASK
+Roll Number: 70137288
+
+repository contains:
+1. Project introduction file
+2. A basic classifier implementation using the ID3 algorithm
+
+The ID3 classifier is implemented in Python using entropy and information gain.
